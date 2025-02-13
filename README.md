@@ -1,1 +1,2 @@
 # codeaplha_task1
+Hangman is a word-guessing game where a player attempts to guess a hidden word by suggesting letters within a limited number of attempts. In Python, it can be implemented using loops, conditionals, and string manipulation. The game randomly selects a word, displays it as underscores, and updates the display as correct letters are guessed. Incorrect guesses reduce the player's attempts. The game ends when the word is fully guessed or the attempts run out.
